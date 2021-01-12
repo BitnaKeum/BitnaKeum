@@ -1,7 +1,6 @@
 <br>
 
-### Hi :wave:
-<br>
+## Hi :wave:
 
 - I'm interested in :star2:
   - Artificial Intelligence
