@@ -1,16 +1,27 @@
-### Hi there 👋
+<br>
 
-<!--
-**BitnaKeum/BitnaKeum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi :wave:
+<br>
 
-Here are some ideas to get you started:
+- I'm interested in :star2:
+  - Artificial Intelligence
+  - Natural Language Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm studying :pencil2:
+  - GAN
+  - Natural Language Processing
+  
+  <br><br>
+
+[![Bitna's github stats](https://github-readme-stats.vercel.app/api?username=BitnaKeum&count_private=true&theme=bear&show_icons=true)](https://github.com/BitnaKeum/github-readme-stats)
+
+<br>
+
+### TechBlog
+
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tistory-c12267?style=flat&logo=Blog&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
