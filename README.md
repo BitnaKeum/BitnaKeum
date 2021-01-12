@@ -18,9 +18,9 @@
 
 ### TechBlog
 
-<a href="https://alpox.kr">
+<a href="https://beausty23.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Tistory-c12267?style=flat&logo=Blog&link=https://alpox.kr"
+        src="http://img.shields.io/badge/-Tistory-c12267?style=flat"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
