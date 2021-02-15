@@ -1,14 +1,15 @@
 <br>
 
-## Hi :wave:
+## Welcome :wave:
 
 - I'm interested in :star2:
   - Artificial Intelligence
-  - Natural Language Processing
+  - Natural Language Processing (especially, Chat-bot)
 
 - I'm studying :pencil2:
   - GAN
   - Natural Language Processing
+  - Algorithm
   
   <br><br>
 
