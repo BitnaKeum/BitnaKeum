@@ -4,12 +4,13 @@
 
 - I'm interested in :star2:
   - Artificial Intelligence
-  - Natural Language Processing (especially, Chat-bot)
+  - Natural Language Processing (especially, Chatbot)
 
 - I'm studying :pencil2:
+  - Chatbot 
   - GAN
-  - Natural Language Processing
   - Algorithm
+  - Data Mining
   
   <br><br>
 
@@ -25,3 +26,4 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<br>
