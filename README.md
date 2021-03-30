@@ -2,6 +2,12 @@
 
 ## Welcome :wave:
 
+<br>
+
+:page_with_curl: You can check my CV [here](https://github.com/BitnaKeum/BitnaKeum/blob/main/CV.pdf).
+
+<br>
+
 - I'm interested in :star2:
   - Artificial Intelligence
   - Natural Language Processing (especially, Chatbot)
