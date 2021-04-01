@@ -9,11 +9,12 @@
 <br>
 
 - I'm interested in :star2:
-  - Artificial Intelligence
-  - Natural Language Processing (especially, Chatbot)
+  - __Natural Language Processing (especially, Chatbot)__
+  - Deep Learning
+
 
 - I'm studying :pencil2:
-  - Chatbot 
+  - Natural Language Processing
   - GAN
   - Algorithm
   - Data Mining
