@@ -15,7 +15,6 @@
 
 - I'm studying :pencil2:
   - Natural Language Processing
-  - GAN
   - Algorithm
   - Data Mining
   
