@@ -4,19 +4,19 @@
 
 <br>
 
-:page_with_curl: You can check my CV [here](https://github.com/BitnaKeum/BitnaKeum/blob/main/CV.pdf).
+:page_with_curl: You can view my __CV__ [here](https://github.com/BitnaKeum/BitnaKeum/blob/main/CV.pdf)!
 
 <br>
 
 - I'm interested in :star2:
-  - __Natural Language Processing (especially, Chatbot)__
+  - __Natural Language Processing__
   - Deep Learning
 
 
 - I'm studying :pencil2:
   - Natural Language Processing
-  - Algorithm
-  - Data Mining
+  - Data Scraping  
+  - Modeling
   
   <br><br>
 
