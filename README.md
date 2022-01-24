@@ -1,17 +1,17 @@
 <br>
 
-## Nice to meet you :wave:
+## Welcome :wave:
 
 <br>
 
-:tulip: I'm currently taking an internship at __TUNiB__ as a data engineer. <br>
-:page_with_curl: You can view my __CV__ [here](https://github.com/BitnaKeum/BitnaKeum/blob/main/CV.pdf)!
+:seedling: I am studying for a master's degree at NLP Lab, Konkuk Univ. <br>
+:page_with_curl: You can know more about me [here](https://github.com/BitnaKeum/BitnaKeum/blob/main/CV.pdf) :)
 
 <br>
 
 - I'm interested in :star2:
-  - __Chatbot__
-  - __Natural Language Processing__
+  - Chatbot
+  - Natural Language Processing
   - Deep Learning
   
   <br>
